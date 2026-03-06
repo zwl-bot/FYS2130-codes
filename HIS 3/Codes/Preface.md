@@ -1,4 +1,4 @@
 Codes for HIS 3
 
- HIS_3_problem_1.py \
- HIS_3_problem_2.py
+ *Problem 1*: HIS_3_problem_1.py \
+ *Problem 2*: HIS_3_problem_2.py
